@@ -1,49 +1,74 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi there! I'm Pallav Choudhary
 
-🎯 Passionate Software Developer | 💻 Open Source Contributor | 🚀 Lifelong Learner
+🎓 B.Tech. CSE Student @ Medi-Caps University  
+💻 Aspiring Full Stack & Java Developer  
+📍 Indore, Madhya Pradesh, India  
 
-Welcome to my GitHub profile! I’m a developer who loves building meaningful software, exploring new technologies, and collaborating on open source.
+---
+
+## 🚀 About Me
+
+I’m a passionate and curious software developer with hands-on experience in Java and Python, and a strong interest in backend development and real-time systems. I love building impactful applications and learning through practical problem-solving.
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages**: JavaScript | Python | Java | C++ | TypeScript
-- **Frontend**: React | Next.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap
-- **Backend**: Node.js | Express | Django | REST APIs | GraphQL
-- **Databases**: MongoDB | MySQL | PostgreSQL | Firebase
-- **DevOps & Tools**: Git | GitHub Actions | Docker | Linux | Postman | VS Code
-- **Others**: Figma | Agile Methodology | Unit Testing | CI/CD
+- **Languages**: Java, Python
+- **Web Development**: HTML5, CSS, JavaScript, JSP, React
+- **Backend**: Java Servlets, JDBC, Spring Boot
+- **Database**: MySQL
+- **Tools & IDEs**: Tomcat, Eclipse, VS Code
+- **Concepts**: OOP, DBMS
+- **Others**: Git, Cisco Packet Tracer (CCNA)
 
 ---
 
-## 🔥 Projects Worth Checking Out
+## 💼 Internship Experience
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Project Name](#) | A brief line about what it does and who it’s for | React, Node.js, MongoDB |
-| [Another Project](#) | Description of the functionality/impact | Python, Django, PostgreSQL |
+- **Java Developer Intern** @ Edvedha (Jan 2024 – Mar 2024)  
+  Developed backend solutions with Java, JDBC, and Servlets. Focused on database integration and performance optimization.
 
-Feel free to explore my pinned repositories for more!
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- **Python Developer Intern** @ Technman Consulting Pvt. Ltd. (Jan 2025 – Feb 2025)  
+  Gained experience in Python scripting and backend logic building.
 
 ---
 
-## 💬 Let's Connect!
+## 🛠️ Projects
 
-- Portfolio: [your-portfolio.com](#)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Twitter: [@yourhandle](#)
-- Email: youremail@example.com
+### 🔴 Blood Bank Management System
+A full-featured web application to manage blood donation, storage, and distribution.  
+**Tech**: Java, JDBC, React, HTML, CSS, JavaScript, JSP, MySQL
 
-Always open to new opportunities, collaborations, or just a tech chat!
+### 💬 Real-Time Chat Application
+Enabled messaging, audio/video calls, and media sharing in real-time.  
+**Tech**: Spring Boot, WebSockets
+
+---
+
+## 📜 Certifications
+
+- Java Programming – Universal Informatics
+- OOP in Java – Coursera
+- Python Programming – Cisco
+
+---
+
+## 📚 Education
+
+**Medi-Caps University, Indore**  
+B.Tech. in Computer Science & Engineering (2021–2025)  
+CGPA: 7.14 / 10
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [choudharypallav86@gmail.com](mailto:choudharypallav86@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/pallav-c-419646229](https://www.linkedin.com/in/pallav-c-419646229)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! 😊
